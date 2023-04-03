@@ -1,7 +1,7 @@
 # Description
 - project created using modules
 - modules can be deployed all at once or separately by hashing the modules in the root dir main.tf file
-- this projects is using local state
+- this project is using local state
 
 # Prerequisits
 - aws cli installed/configured locally
