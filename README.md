@@ -7,7 +7,7 @@
 - aws cli installed/configured locally
 - terraform installed locally
 
-# To Initilise
+# To Initialise
 - from root dir run - terraform init
 
 # To plan
